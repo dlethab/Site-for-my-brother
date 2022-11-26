@@ -1,0 +1,100 @@
+
+.centerimg {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.clippyspot {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  bottom: 10%;
+  left: 85%;
+  transform: translate(-30%, -70%);
+}
+
+.backarrow {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+
+  margin-left: 0px;
+}
+
+.posttext {
+  display: inline;
+  color: white;
+  font-family: "Courier New", monospace;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top:40px;
+}
+
+.bodytext {
+  padding: 20px;
+  color: white;
+  font-family: "Courier New", monospace;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-top:4px;
+}
+.headertext {
+  color: white;
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.musictext {
+  color: white;
+  font-family: "Courier New", monospace;
+  font-size: 25px;
+  text-align: center;
+}
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.images {
+
+  width: 90%;
+  padding: 0px 10px 0px 10px;
+}
+
+.centerflyer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+
+#linkid {
+  border-radius: 25px;
+  border: 2px solid;
+  border-color: white;
+  padding: 20px;
+  width: 300px;
+  height: 30px;
+
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 80px;
+  margin-top: 80px;
+
+  font-family: "Courier New", monospace;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 23px;
+  }
